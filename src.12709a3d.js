@@ -21,4 +21,4 @@ module.exports="/parcel-project-template/symbol-defs.5eba3ce9.svg";
 },{"./Header/Header":"EC3M","./Modal/Modal":"hp6C"}],"Focm":[function(require,module,exports) {
 "use strict";require("./sass/main.scss");var s=require("./Components/App");(0,s.App)();
 },{"./sass/main.scss":"clu1","./Components/App":"YOO8"}]},{},["Focm"], null)
-//# sourceMappingURL=/parcel-project-template/src.92223824.js.map
+//# sourceMappingURL=/parcel-project-template/src.12709a3d.js.map
